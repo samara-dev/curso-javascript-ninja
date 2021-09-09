@@ -48,6 +48,6 @@
     console.log(myName.reverse().join('')); //mostrando os ítens do array invertidos
 
     console.log('\nAgora em órdem alfabética:')
-    console.log(myName.sort().join(''));
+    console.log(myName.sort().join('')); //mostrando em órdem alfabética
 
 })();
