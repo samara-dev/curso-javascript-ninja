@@ -3,6 +3,7 @@
 // Expressões Regulares - Usada para manipular strings, é um tipo primitivo dentro do javascript.
 // Podemos usar literais, flags e termos em expressões regulares.
 // .match() - \w- pega todos os caracteres alfanuméricos.
+//          - \d - pega todos os dígitos(números).
 
 var text = 'Manuel Marques de Souza, Conde de Porto Alegre (Rio Grande, 13 de junho de 1864 - Rio de Janeiro, 18 de julho de 1875), apelidadi de "O Centauro de Luvas", foi um militar, político, abolucionista e monarquista brasileiro.';
 
